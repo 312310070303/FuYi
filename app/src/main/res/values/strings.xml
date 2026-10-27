@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">浮译</string>
+    <string name="accessibility_label">浮译 · 屏幕取词</string>
+    <string name="accessibility_desc">在你点悬浮球时截取一帧画面并识别日文。不会在后台持续截屏，也不会上传截图。</string>
+</resources>

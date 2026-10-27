@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本机配置
+local.properties
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+# 构建产物
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
