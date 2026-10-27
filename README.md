@@ -63,7 +63,7 @@
 要求：JDK 17、Android SDK 35、Gradle 8.9（仓库自带 wrapper）。
 
 ```bash
-git clone https://github.com/<your-name>/FuYi.git
+git clone https://github.com/312310070303/FuYi.git
 cd FuYi
 echo "sdk.dir=/path/to/Android/Sdk" > local.properties
 ./gradlew assembleRelease
